@@ -11,7 +11,7 @@ Flash card desktop app based off of spaced repetition learning.
 
 Use this basic algorithm:
 
-<img src="spaced-repetition.png">
+<img src="spaced-rep.png">
 
 *I don't know the original source of this image as it was a screenshot I took many months ago.*
 
